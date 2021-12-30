@@ -1,61 +1,94 @@
-<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
+# Organization Event Organizer
+It's a web project build by Laravel for the course CSE 446 : Web Technology. The owner of this project are:
 
-<p align="center">
-<a href="https://travis-ci.org/laravel/framework"><img src="https://travis-ci.org/laravel/framework.svg" alt="Build Status"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/d/total.svg" alt="Total Downloads"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/v/stable.svg" alt="Latest Stable Version"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/license.svg" alt="License"></a>
-</p>
+MD. Shafayet Hasan
 
-## About Laravel
+Reg No: 2016331080,
 
-Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
+Session: 2016-17
 
-- [Simple, fast routing engine](https://laravel.com/docs/routing).
-- [Powerful dependency injection container](https://laravel.com/docs/container).
-- Multiple back-ends for [session](https://laravel.com/docs/session) and [cache](https://laravel.com/docs/cache) storage.
-- Expressive, intuitive [database ORM](https://laravel.com/docs/eloquent).
-- Database agnostic [schema migrations](https://laravel.com/docs/migrations).
-- [Robust background job processing](https://laravel.com/docs/queues).
-- [Real-time event broadcasting](https://laravel.com/docs/broadcasting).
+Student of CSE, SUST
 
-Laravel is accessible, powerful, and provides tools required for large, robust applications.
+Email: nuhashhasan2015@gmail.com
 
-## Learning Laravel
+Github: https://github.com/Nuhash80
 
-Laravel has the most extensive and thorough [documentation](https://laravel.com/docs) and video tutorial library of all modern web application frameworks, making it a breeze to get started with the framework.
+Jubayer Ahamed Ayon
 
-If you don't feel like reading, [Laracasts](https://laracasts.com) can help. Laracasts contains over 1500 video tutorials on a range of topics including Laravel, modern PHP, unit testing, and JavaScript. Boost your skills by digging into our comprehensive video library.
+Reg No: 2016331096,
 
-## Laravel Sponsors
+Session: 2016-17
 
-We would like to extend our thanks to the following sponsors for funding Laravel development. If you are interested in becoming a sponsor, please visit the Laravel [Patreon page](https://patreon.com/taylorotwell).
+Student of CSE, SUST
 
-### Premium Partners
+Email: ayon605758@gmail.com
 
-- **[Vehikl](https://vehikl.com/)**
-- **[Tighten Co.](https://tighten.co)**
-- **[Kirschbaum Development Group](https://kirschbaumdevelopment.com)**
-- **[64 Robots](https://64robots.com)**
-- **[Cubet Techno Labs](https://cubettech.com)**
-- **[Cyber-Duck](https://cyber-duck.co.uk)**
-- **[Many](https://www.many.co.uk)**
-- **[Webdock, Fast VPS Hosting](https://www.webdock.io/en)**
-- **[DevSquad](https://devsquad.com)**
-- **[OP.GG](https://op.gg)**
+Github: https://github.com/AyonCSE1997
 
-## Contributing
+# Motivation
 
-Thank you for considering contributing to the Laravel framework! The contribution guide can be found in the [Laravel documentation](https://laravel.com/docs/contributions).
+In Sust, there are many different type of organization for example cultural, career oriented, debate etc. These organizations arranged many events throughout the calender year. They need many students as volunteer for organizing the event. This is a platform for the enthusiastic peoples of SUST and its organization.
 
-## Code of Conduct
+The main motive here is to bring people together and help each other.
 
-In order to ensure that the Laravel community is welcoming to all, please review and abide by the [Code of Conduct](https://laravel.com/docs/contributions#code-of-conduct).
+With our website, any organization of this university can call upon people who are willing to work on that particular field. Also volunteers who want to help organizations on their field of interest can search for events that are being organized.
 
-## Security Vulnerabilities
+Our website can make the job easier for the organizations. They can create event in the website and recruit students as volunteer.
 
-If you discover a security vulnerability within Laravel, please send an e-mail to Taylor Otwell via [taylor@laravel.com](mailto:taylor@laravel.com). All security vulnerabilities will be promptly addressed.
+# Features
+=> Volunteer registration and login
 
-## License
+=> Organization registration and login
 
-The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+=> Volunteer can create and edit their profile. They can include their information for example their photo,registration no, department,   phone no, email, bio, address etc.
+
+=> Organization can also create and edit their own profile which will include their organization details, cover photo, logo, moto, description , contact details etc. There is a beautiful interface to view the organization profile.
+
+=> Organization can create event with event details.
+
+=> Volunteers can request to perticipate in different events.
+
+=> Organizers will approve volunteer's request after judging their profile.
+
+=> Organizer can edit or delete a event. They can view the events separately which only they have created.
+
+-There is a home feed to show all the events.
+
+-There is section in the home page where some of the featured organization are displayed.
+
+-Anyone can search for event using title or event category.
+
+One just need to open an account as an organization or a volunteer and explore this wonderful platform of bringing earnest and committed people together.
+
+**Home Page**
+
+![Homepage](https://user-images.githubusercontent.com/79800970/127732724-b478e07c-0784-41b0-956a-95010f89fd08.PNG)
+
+
+
+**Volunteer Registration**
+
+![Vol_reg](https://user-images.githubusercontent.com/79800970/127732851-01f5085d-ce5c-4f38-b114-2a50a844c8d3.PNG)
+
+
+
+**Volunteer Profile**
+
+![Volunteer_profile](https://user-images.githubusercontent.com/79800970/127732902-9e02d409-f17a-4584-9a69-ae080ea2de0c.PNG)
+
+
+**Organization Registration**
+
+![Org_reg](https://user-images.githubusercontent.com/79800970/127732947-54a6ce01-1f07-49dd-8f40-c83e6b7803c6.PNG)
+
+
+**Organization Profile**
+
+![Org_profile](https://user-images.githubusercontent.com/79800970/127732966-a921b35f-493d-4a80-8d7a-b4e08a7f6741.PNG)
+
+
+**Event Creation**
+![Event_creation](https://user-images.githubusercontent.com/79800970/127732989-810cc73b-8f3f-499c-8d29-f63bf035bce3.PNG)
+
+
+
